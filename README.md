@@ -62,11 +62,12 @@ Desde novo um amante da tecnologia😁
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-seven-tawny-38.vercel.app/api?username=RNanWP&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600&rank_icon=github&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats-seven-tawny-38.vercel.app/api/top-langs/?username=RNanWP&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600&langs_count=8&hide=css,html" />
+<img height="170" src="https://github-readme-stats-seven-tawny-38.vercel.app/api?username=RNanWP&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600&rank_icon=github&include_all_commits=true&locale=pt-br" />
+<img height="170" src="https://github-readme-stats-seven-tawny-38.vercel.app/api/top-langs/?username=RNanWP&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600&langs_count=8&hide=css,html&locale=pt-br" />
 
 <br/>
 
+### 🔥 Sequência de commits  🔥
 <img height="170" src="https://streak-stats.demolab.com?user=RNanWP&theme=transparent&hide_border=true" />
 
 </div>
