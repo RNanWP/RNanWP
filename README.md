@@ -66,9 +66,12 @@ Desde novo um amante da tecnologia😁
 <img height="170" src="https://github-readme-stats-seven-tawny-38.vercel.app/api/top-langs/?username=RNanWP&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600&langs_count=8&hide=css,html&locale=pt-br" />
 
 <br/>
+<br/>
 
 ### 🔥 Sequência de commits  🔥
-<img height="170" src="https://streak-stats.demolab.com?user=RNanWP&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RNanWP&theme=tokyonight&hide_border=true&locale=pt_BR" />
+
+<br/>
 
 </div>
 
